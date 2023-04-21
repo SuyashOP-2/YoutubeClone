@@ -21,7 +21,6 @@ You may also see any lint errors in the console.
 
 
 ### Link
-cheak out!! ![https://youtube-clone-gy1r-kqz5h6tg4-suyashop-2.vercel.app/](https://youtube-clone-gy1r-kqz5h6tg4-suyashop-2.vercel.app/)
-
+https://youtube-clone-gy1r-kqz5h6tg4-suyashop-2.vercel.app/
 
 
